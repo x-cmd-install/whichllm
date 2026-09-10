@@ -4,7 +4,7 @@
 
 Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 
-![whichllm](https://repo.x-cmd.io/whichllm.svg)
+![whichllm](https://repo.x-cmd.io/whichllm.svg?lang=zh)
 
 ## 安装
 
@@ -21,11 +21,10 @@ x install whichllm
 
 - **最新版本**: `v0.5.16` (2026-08-14)
 - **最近提交**: 2026-08-14
-- **发布时间**: 2026-08-14T05:48:23Z
 
 ## 流行度
 
-- **Star**: 6,605 · **Fork**: 360 · **开放 issue**: 70 · **贡献者**: 26
+- **Star**: 6,606 · **Fork**: 360 · **开放 issue**: 70 · **贡献者**: 26
 
 ## 累计统计
 
@@ -58,4 +57,4 @@ whichllm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:05:36Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:02:52Z._
