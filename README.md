@@ -12,6 +12,16 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 x install whichllm
 ```
 
+## Code insight
+
+Total: **15,440** lines of code across **116** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 15,385 | 724 | 2,675 | 104 |
+| Toml | 55 | 0 | 7 | 1 |
+| Markdown | 0 | 1,768 | 680 | 11 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Andyyyy64/whichllm>
@@ -24,7 +34,7 @@ x install whichllm
 
 ## Popularity
 
-- **Stars**: 6,606 · **Forks**: 360 · **Open issues**: 70 · **Contributors**: 26
+- **Stars**: 6,609 · **Forks**: 360 · **Open issues**: 70 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -35,18 +45,19 @@ x install whichllm
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 2 | 8 | 2 | 3 | 5 |
+| last60d | 2026-07-12 | 1 | 6 | 10 | 5 | 3 | 7 |
 | 90d | 2026-06-12 | 6 | 27 | 10 | 16 | 3 | 35 |
+| last180d | 2026-03-14 | 16 | 74 | 10 | 57 | 13 | 138 |
 | 360d | 2025-09-15 | 17 | 74 | 10 | 57 | 13 | 220 |
+| last720d | 2024-09-20 | 17 | 74 | 10 | 57 | 13 | 256 |
 
-## Code size
+## Distribution status
 
-Total: **15,440** lines of code across **116** files in the top 5 languages.
+Reported by **5** distros on [repology.org](https://repology.org/project/whichllm). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 15,385 | 724 | 2,675 | 104 |
-| Toml | 55 | 0 | 7 | 1 |
-| Markdown | 0 | 1,768 | 680 | 11 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.5.16` | ✅ latest |
 
 ## Improve this data
 
@@ -57,4 +68,4 @@ Install metadata for whichllm lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:02:52Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:10:09Z._
