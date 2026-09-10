@@ -1,0 +1,60 @@
+- repo: aur
+  srcname: whichllm
+  binname: whichllm
+  visiblename: whichllm
+  version: 0.5.15
+  origversion: 0.5.15-1
+  status: outdated
+  summary: Auto-detect your hardware and rank local LLMs by what actually fits and performs best
+  maintainers:
+    - riveronvenus@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: whichllm-git
+  binname: whichllm-git
+  visiblename: whichllm-git
+  version: 0.5.15.r1.g0a49590
+  origversion: 0.5.15.r1.g0a49590-1
+  status: rolling
+  summary: Auto-detect your hardware and rank local LLMs by what actually fits and performs best
+  maintainers:
+    - riveronvenus@aur
+  licenses:
+    - MIT
+- repo: macports
+  srcname: llm/whichllm
+  binname: whichllm
+  visiblename: whichllm
+  version: 0.5.16
+  origversion: null
+  status: newest
+  summary: Find the best LLM that runs on your hardware
+  maintainers:
+    - oytech@github
+  licenses:
+    - MIT
+  categories:
+    - llm
+- repo: nix_stable_26_05
+  srcname: whichllm
+  visiblename: whichllm
+  version: 0.5.15
+  origversion: null
+  status: outdated
+  summary: Find the local LLM that actually runs and performs best on your hardware
+  maintainers:
+    - jaredmontoya@github
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: whichllm
+  visiblename: whichllm
+  version: 0.5.16
+  origversion: null
+  status: newest
+  summary: Find the local LLM that actually runs and performs best on your hardware
+  maintainers:
+    - jaredmontoya@github
+  licenses:
+    - MIT
