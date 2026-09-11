@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.16"
   latestRelease: "v0.5.16"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:03:31Z
+  collectedAt: 2026-09-11T20:50:22Z
 timeline:
   created: 2026-03-04
   lastCommit: 2026-08-14
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-14
   lastPrerelease: 
 popularity:
-  star: 6610
+  star: 6617
   watcher: 25
   fork: 360
   release: 17
@@ -83,7 +83,7 @@ total:
   commit: 256
 ---
 path: /home/runner/.x-repo/github.com/Andyyyy64/whichllm
-collectedAt: 2026-09-11T04:03:32Z
+collectedAt: 2026-09-11T20:50:23Z
 loc:
   Python:
     code: 15385
