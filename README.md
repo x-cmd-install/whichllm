@@ -14,13 +14,13 @@ x install whichllm
 
 ## Code insight
 
-Total: **15,440** lines of code across **116** files in the top 5 languages.
+Total: **15,637** lines of code across **117** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 15,385 | 724 | 2,675 | 104 |
+| Python | 15,582 | 740 | 2,706 | 105 |
 | Toml | 55 | 0 | 7 | 1 |
-| Markdown | 0 | 1,768 | 680 | 11 |
+| Markdown | 0 | 1,787 | 686 | 11 |
 
 ## Source
 
@@ -30,26 +30,26 @@ Total: **15,440** lines of code across **116** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.16` (2026-08-14)
-- **Last commit**: 2026-08-14
+- **Last commit**: 2026-09-14
 
 ## Popularity
 
-- **Stars**: 6,631 · **Forks**: 363 · **Open issues**: 70 · **Contributors**: 26
+- **Stars**: 6,635 · **Forks**: 363 · **Open issues**: 70 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 74 · **Open PRs**: 10 · **Closed issues**: 57 · **Open issues**: 13 · **Commits**: 256
+- **Releases**: 17 · **Merged PRs**: 77 · **Open PRs**: 10 · **Closed issues**: 63 · **Open issues**: 7 · **Commits**: 259
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 5 | 0 | 2 | 0 |
-| last60d | 2026-07-16 | 1 | 6 | 9 | 5 | 3 | 7 |
-| 90d | 2026-06-16 | 6 | 23 | 10 | 14 | 3 | 24 |
-| last180d | 2026-03-18 | 16 | 74 | 10 | 57 | 13 | 138 |
-| 360d | 2025-09-19 | 17 | 74 | 10 | 57 | 13 | 220 |
-| last720d | 2024-09-24 | 17 | 74 | 10 | 57 | 13 | 256 |
+| 30d | 2026-08-16 | 0 | 2 | 6 | 0 | 1 | 3 |
+| last60d | 2026-07-17 | 1 | 9 | 9 | 6 | 2 | 10 |
+| 90d | 2026-06-17 | 6 | 26 | 10 | 14 | 2 | 27 |
+| last180d | 2026-03-19 | 16 | 77 | 10 | 63 | 7 | 141 |
+| 360d | 2025-09-20 | 17 | 77 | 10 | 63 | 7 | 223 |
+| last720d | 2024-09-25 | 17 | 77 | 10 | 63 | 7 | 259 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for whichllm lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:22:45Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:23:22Z._
