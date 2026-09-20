@@ -4,7 +4,7 @@
 
 Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 
-![whichllm](https://repo.x-cmd.io/whichllm.svg)
+[![x-cmd/install — whichllm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/whichllm.svg)](https://x-cmd.com/install/whichllm)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install whichllm
 
 ## Code insight
 
-Total: **15,637** lines of code across **117** files in the top 5 languages.
+Total: **15,968** lines of code across **118** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 15,582 | 740 | 2,706 | 105 |
+| Python | 15,913 | 726 | 2,791 | 106 |
 | Toml | 55 | 0 | 7 | 1 |
-| Markdown | 0 | 1,787 | 686 | 11 |
+| Markdown | 0 | 1,827 | 698 | 11 |
 
 ## Source
 
@@ -29,27 +29,27 @@ Total: **15,637** lines of code across **117** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.5.16` (2026-08-14)
-- **Last commit**: 2026-09-14
+- **Latest**: `v0.5.19` (2026-09-19)
+- **Last commit**: 2026-09-19
 
 ## Popularity
 
-- **Stars**: 6,657 · **Forks**: 367 · **Open issues**: 70 · **Contributors**: 28
+- **Stars**: 6,666 · **Forks**: 368 · **Open issues**: 71 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 77 · **Open PRs**: 10 · **Closed issues**: 63 · **Open issues**: 7 · **Commits**: 259
+- **Releases**: 20 · **Merged PRs**: 85 · **Open PRs**: 7 · **Closed issues**: 65 · **Open issues**: 6 · **Commits**: 267
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 5 | 0 | 1 | 3 |
-| last60d | 2026-07-20 | 1 | 8 | 9 | 6 | 2 | 10 |
-| 90d | 2026-06-20 | 4 | 20 | 10 | 12 | 2 | 27 |
-| last180d | 2026-03-22 | 16 | 77 | 10 | 63 | 7 | 141 |
-| 360d | 2025-09-23 | 17 | 77 | 10 | 63 | 7 | 223 |
-| last720d | 2024-09-28 | 17 | 77 | 10 | 63 | 7 | 259 |
+| 30d | 2026-08-21 | 3 | 6 | 4 | 1 | 1 | 10 |
+| last60d | 2026-07-22 | 4 | 15 | 6 | 7 | 1 | 17 |
+| 90d | 2026-06-22 | 7 | 28 | 7 | 11 | 1 | 34 |
+| last180d | 2026-03-24 | 19 | 85 | 7 | 65 | 6 | 148 |
+| 360d | 2025-09-25 | 20 | 85 | 7 | 65 | 6 | 230 |
+| last720d | 2024-09-30 | 20 | 85 | 7 | 65 | 6 | 267 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for whichllm lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:09:38Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:25:07Z._
