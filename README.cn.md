@@ -4,7 +4,7 @@
 
 Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 
-[![x-cmd/install — whichllm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/whichllm.svg?lang=zh)](https://x-cmd.com/install/whichllm)
+[![x-cmd/install — whichllm Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/whichllm.svg?lang=zh)](https://x-cmd.com/install/whichllm)
 
 ## 安装
 
@@ -34,7 +34,7 @@ x install whichllm
 
 ## 流行度
 
-- **Star**: 6,670 · **Fork**: 372 · **开放 issue**: 71 · **贡献者**: 29
+- **Star**: 6,675 · **Fork**: 372 · **开放 issue**: 71 · **贡献者**: 29
 
 ## 累计统计
 
@@ -44,12 +44,12 @@ x install whichllm
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 6 | 5 | 1 | 1 | 11 |
-| last60d | 2026-07-24 | 4 | 15 | 7 | 7 | 1 | 18 |
-| 90d | 2026-06-24 | 7 | 26 | 8 | 10 | 1 | 28 |
-| last180d | 2026-03-26 | 19 | 85 | 8 | 65 | 6 | 149 |
-| 360d | 2025-09-27 | 20 | 85 | 8 | 65 | 6 | 231 |
-| last720d | 2024-10-02 | 20 | 85 | 8 | 65 | 6 | 267 |
+| 30d | 2026-08-24 | 3 | 6 | 4 | 1 | 1 | 11 |
+| last60d | 2026-07-25 | 4 | 15 | 7 | 7 | 1 | 18 |
+| 90d | 2026-06-25 | 7 | 26 | 8 | 10 | 1 | 28 |
+| last180d | 2026-03-27 | 19 | 85 | 8 | 65 | 6 | 149 |
+| 360d | 2025-09-28 | 20 | 85 | 8 | 65 | 6 | 231 |
+| last720d | 2024-10-03 | 20 | 85 | 8 | 65 | 6 | 267 |
 
 ## 改进这些数据
 
@@ -60,4 +60,4 @@ whichllm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:18:21Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:15:58Z._
