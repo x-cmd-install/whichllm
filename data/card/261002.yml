@@ -109,4 +109,3 @@ total:
 ---
 
 ---
-{"id":392134528,"author":{"login":"Andyyyy64","id":105579829,"node_id":"U_kgDOBksFNQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOReQROs4XX3-A","tag_name":"v0.5.19","target_commitish":"4f4fc268ed573f28410a6811e141ec0946c9f7e2","name":"v0.5.19","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-19T16:07:25Z","updated_at":"2026-09-19T16:22:50Z","published_at":"2026-09-19T16:22:50Z","assets":[],"body":"You can now use `whichllm -v` as a short form of `whichllm --version`. Thanks @Sophist-UK for the contribution (#159).\n","mentions_count":1}
