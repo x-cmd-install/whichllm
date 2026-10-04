@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/Andyyyy64/whichllm/releases/392134528",
-  "assets_url": "https://api.github.com/repos/Andyyyy64/whichllm/releases/392134528/assets",
-  "upload_url": "https://uploads.github.com/repos/Andyyyy64/whichllm/releases/392134528/assets{?name,label}",
-  "html_url": "https://github.com/Andyyyy64/whichllm/releases/tag/v0.5.19",
-  "id": 392134528,
+  "url": "https://api.github.com/repos/Andyyyy64/whichllm/releases/402560668",
+  "assets_url": "https://api.github.com/repos/Andyyyy64/whichllm/releases/402560668/assets",
+  "upload_url": "https://uploads.github.com/repos/Andyyyy64/whichllm/releases/402560668/assets{?name,label}",
+  "html_url": "https://github.com/Andyyyy64/whichllm/releases/tag/v0.5.20",
+  "id": 402560668,
   "author": {
     "login": "Andyyyy64",
     "id": 105579829,
@@ -25,21 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOReQROs4XX3-A",
-  "tag_name": "v0.5.19",
-  "target_commitish": "4f4fc268ed573f28410a6811e141ec0946c9f7e2",
-  "name": "v0.5.19",
+  "node_id": "RE_kwDOReQROs4X_pac",
+  "tag_name": "v0.5.20",
+  "target_commitish": "main",
+  "name": "v0.5.20",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-19T16:07:25Z",
-  "updated_at": "2026-09-19T16:22:50Z",
-  "published_at": "2026-09-19T16:22:50Z",
+  "created_at": "2026-10-03T14:53:20Z",
+  "updated_at": "2026-10-03T15:03:47Z",
+  "published_at": "2026-10-03T15:03:47Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/Andyyyy64/whichllm/tarball/v0.5.19",
-  "zipball_url": "https://api.github.com/repos/Andyyyy64/whichllm/zipball/v0.5.19",
-  "body": "You can now use `whichllm -v` as a short form of `whichllm --version`. Thanks @Sophist-UK for the contribution (#159).\n",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/Andyyyy64/whichllm/tarball/v0.5.20",
+  "zipball_url": "https://api.github.com/repos/Andyyyy64/whichllm/zipball/v0.5.20",
+  "body": "This release fixes live AA scores that stayed above newer lower or zero scores, separates the DeepSeek V3 and GLM-4.5 checkpoints, and retains fetched leaderboard pages after an exhausted later-page 429. Partial leaderboard results use the existing 24-hour cache. Use `--refresh` to fetch them again.\n\nRecommendations can detect exact local GGUF matches in the current LM Studio library. Use repeatable `--lm-studio-path` options for custom locations. The library remains read-only; `whichllm run` does not yet launch the local artifact directly.\n\nRich ranking tables show known GGUF file sizes and mark estimates. Model cache schema 4 refreshes older cached models so unknown size provenance cannot appear exact.\n\nAMD PCI fallback detection recognizes Strix Halo without assigning a particular SKU. Named Xavier GPUs use the shared-memory path. The CLI implementation is split while retaining its options and exact repository lookup.\n\nRuntime memory limits on Strix Halo, failed Xavier enumeration, and per-device weights/KV placement on mixed GPUs still need separate validation. This release does not claim those runtime questions are solved.\n\nThe release candidate passes all 590 tests and Ruff lint and format checks. The wheel was built from the sdist and checked against the source. A fresh installation with production dependencies returns recommendation JSON from an empty cache, then reads the cache successfully. Strix Halo and Xavier checks use mocked probe output; no hardware benchmark was run.\n\nRequired lint and Python 3.11, 3.12, and 3.13 CI checks pass on the release commit, `23b594ff003c3a91a91ab94b6349ac88c65da60a`.\n"
 }
