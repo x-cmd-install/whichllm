@@ -50,9 +50,9 @@
 - repo: nix_unstable
   srcname: whichllm
   visiblename: whichllm
-  version: 0.5.20
+  version: 0.5.21
   origversion: null
-  status: outdated
+  status: newest
   summary: Find the local LLM that actually runs and performs best on your hardware
   maintainers:
     - jaredmontoya@github
