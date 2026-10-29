@@ -14,8 +14,8 @@
   srcname: whichllm-git
   binname: whichllm-git
   visiblename: whichllm-git
-  version: 0.5.21.r0.g9f3709f
-  origversion: 0.5.21.r0.g9f3709f-1
+  version: 0.5.22.r1.g0ea01c3
+  origversion: 0.5.22.r1.g0ea01c3-1
   status: rolling
   summary: Auto-detect your hardware and rank local LLMs by what actually fits and performs best
   maintainers:
