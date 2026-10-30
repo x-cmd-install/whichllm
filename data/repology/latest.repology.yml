@@ -2,8 +2,8 @@
   srcname: whichllm
   binname: whichllm
   visiblename: whichllm
-  version: 0.5.21
-  origversion: 0.5.21-1
+  version: 0.5.23
+  origversion: 0.5.23-1
   status: newest
   summary: Auto-detect your hardware and rank local LLMs by what actually fits and performs best
   maintainers:
@@ -14,8 +14,8 @@
   srcname: whichllm-git
   binname: whichllm-git
   visiblename: whichllm-git
-  version: 0.5.22.r1.g0ea01c3
-  origversion: 0.5.22.r1.g0ea01c3-1
+  version: 0.5.23.r3.g216de43
+  origversion: 0.5.23.r3.g216de43-1
   status: rolling
   summary: Auto-detect your hardware and rank local LLMs by what actually fits and performs best
   maintainers:
@@ -28,7 +28,7 @@
   visiblename: whichllm
   version: 0.5.21
   origversion: null
-  status: newest
+  status: outdated
   summary: Find the best LLM that runs on your hardware
   maintainers:
     - oytech@github
@@ -52,7 +52,7 @@
   visiblename: whichllm
   version: 0.5.21
   origversion: null
-  status: newest
+  status: outdated
   summary: Find the local LLM that actually runs and performs best on your hardware
   maintainers:
     - jaredmontoya@github
