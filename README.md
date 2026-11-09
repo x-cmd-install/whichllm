@@ -35,7 +35,7 @@ Total: **39,778** lines of code across **239** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,830 · **Forks**: 378 · **Open issues**: 79 · **Contributors**: 33
+- **Stars**: 6,831 · **Forks**: 378 · **Open issues**: 79 · **Contributors**: 33
 
 ## Totals (cumulative)
 
@@ -45,12 +45,20 @@ Total: **39,778** lines of code across **239** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 7 | 98 | 0 | 2 | 4 | 97 |
-| last60d | 2026-09-09 | 11 | 110 | 0 | 5 | 5 | 124 |
-| 90d | 2026-08-10 | 12 | 120 | 0 | 10 | 5 | 131 |
-| last180d | 2026-05-12 | 27 | 194 | 0 | 74 | 5 | 266 |
-| 360d | 2025-11-13 | 28 | 194 | 0 | 74 | 5 | 348 |
-| last720d | 2024-11-18 | 28 | 194 | 0 | 74 | 5 | 442 |
+| 30d | 2026-10-10 | 7 | 98 | 0 | 2 | 4 | 97 |
+| last60d | 2026-09-10 | 11 | 110 | 0 | 5 | 5 | 120 |
+| 90d | 2026-08-11 | 12 | 120 | 0 | 10 | 5 | 125 |
+| last180d | 2026-05-13 | 27 | 194 | 0 | 74 | 5 | 197 |
+| 360d | 2025-11-14 | 28 | 194 | 0 | 74 | 5 | 348 |
+| last720d | 2024-11-19 | 28 | 194 | 0 | 74 | 5 | 442 |
+
+## Distribution status
+
+Reported by **5** distros on [repology.org](https://repology.org/project/whichllm). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.6.4` | ✅ latest |
 
 ## Improve this data
 
@@ -61,4 +69,4 @@ Install metadata for whichllm lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:30:08Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T05:41:31Z._
