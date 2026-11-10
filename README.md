@@ -35,30 +35,22 @@ Total: **39,778** lines of code across **239** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,831 · **Forks**: 378 · **Open issues**: 79 · **Contributors**: 33
+- **Stars**: 6,834 · **Forks**: 378 · **Open issues**: 80 · **Contributors**: 33
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 195 · **Open PRs**: 0 · **Closed issues**: 74 · **Open issues**: 5 · **Commits**: 442
+- **Releases**: 28 · **Merged PRs**: 195 · **Open PRs**: 0 · **Closed issues**: 74 · **Open issues**: 6 · **Commits**: 442
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 7 | 98 | 0 | 2 | 4 | 97 |
-| last60d | 2026-09-10 | 11 | 110 | 0 | 5 | 5 | 120 |
-| 90d | 2026-08-11 | 12 | 120 | 0 | 10 | 5 | 125 |
-| last180d | 2026-05-13 | 27 | 194 | 0 | 74 | 5 | 197 |
-| 360d | 2025-11-14 | 28 | 194 | 0 | 74 | 5 | 348 |
-| last720d | 2024-11-19 | 28 | 194 | 0 | 74 | 5 | 442 |
-
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/whichllm). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.6.4` | ✅ latest |
+| 30d | 2026-10-11 | 7 | 98 | 0 | 2 | 5 | 97 |
+| last60d | 2026-09-11 | 11 | 110 | 0 | 5 | 6 | 120 |
+| 90d | 2026-08-12 | 12 | 120 | 0 | 10 | 6 | 125 |
+| last180d | 2026-05-14 | 26 | 194 | 0 | 74 | 6 | 197 |
+| 360d | 2025-11-15 | 28 | 194 | 0 | 74 | 6 | 348 |
+| last720d | 2024-11-20 | 28 | 194 | 0 | 74 | 6 | 442 |
 
 ## Improve this data
 
@@ -69,4 +61,4 @@ Install metadata for whichllm lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T05:41:31Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T06:50:37Z._
