@@ -14,14 +14,14 @@ x install whichllm
 
 ## Code insight
 
-Total: **39,778** lines of code across **239** files in the top 5 languages.
+Total: **40,186** lines of code across **240** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 34,584 | 1,381 | 6,661 | 204 |
-| Json | 4,628 | 0 | 0 | 21 |
+| Python | 34,711 | 1,400 | 6,696 | 204 |
+| Json | 4,909 | 0 | 0 | 22 |
 | Toml | 566 | 20 | 71 | 2 |
-| Markdown | 0 | 3,083 | 935 | 12 |
+| Markdown | 0 | 3,123 | 943 | 12 |
 
 ## Source
 
@@ -30,27 +30,35 @@ Total: **39,778** lines of code across **239** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.6.4` (2026-11-04)
-- **Last commit**: 2026-11-04
+- **Latest**: `v0.6.5` (2026-11-10)
+- **Last commit**: 2026-11-10
 
 ## Popularity
 
-- **Stars**: 6,834 · **Forks**: 378 · **Open issues**: 80 · **Contributors**: 33
+- **Stars**: 6,832 · **Forks**: 378 · **Open issues**: 80 · **Contributors**: 33
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 195 · **Open PRs**: 0 · **Closed issues**: 74 · **Open issues**: 6 · **Commits**: 442
+- **Releases**: 29 · **Merged PRs**: 201 · **Open PRs**: 0 · **Closed issues**: 74 · **Open issues**: 6 · **Commits**: 448
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 7 | 98 | 0 | 2 | 5 | 97 |
-| last60d | 2026-09-11 | 11 | 110 | 0 | 5 | 6 | 120 |
-| 90d | 2026-08-12 | 12 | 120 | 0 | 10 | 6 | 125 |
-| last180d | 2026-05-14 | 26 | 194 | 0 | 74 | 6 | 197 |
-| 360d | 2025-11-15 | 28 | 194 | 0 | 74 | 6 | 348 |
-| last720d | 2024-11-20 | 28 | 194 | 0 | 74 | 6 | 442 |
+| 30d | 2026-10-12 | 8 | 104 | 0 | 2 | 5 | 102 |
+| last60d | 2026-09-12 | 12 | 116 | 0 | 5 | 6 | 125 |
+| 90d | 2026-08-13 | 13 | 126 | 0 | 10 | 6 | 130 |
+| last180d | 2026-05-15 | 27 | 194 | 0 | 65 | 6 | 202 |
+| 360d | 2025-11-16 | 29 | 200 | 0 | 74 | 6 | 353 |
+| last720d | 2024-11-21 | 29 | 200 | 0 | 74 | 6 | 448 |
+
+## Distribution status
+
+Reported by **5** distros on [repology.org](https://repology.org/project/whichllm). **1** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.6.4` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -61,4 +69,4 @@ Install metadata for whichllm lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T06:50:37Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:38:54Z._
