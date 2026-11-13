@@ -1,0 +1,116 @@
+about:
+  description: "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly."
+  license: MIT
+  homepage: 
+  head: f72d41f
+  archived: false
+  latestVersion: "v0.6.7"
+  latestRelease: "v0.6.7"
+  latestPrerelease: ""
+  collectedAt: 2026-11-13T06:00:09Z
+timeline:
+  created: 2026-03-04
+  lastCommit: 2026-11-12
+  lastVersion: 2026-11-12
+  lastRelease: 2026-11-12
+  lastPrerelease: 
+popularity:
+  star: 6830
+  watcher: 23
+  fork: 378
+  release: 31
+  contributor: 33
+  pullRequest: 225
+  issue: 80
+language:
+  Python: 1471918
+  Tape: 1400
+totalBytes: 1473318
+recent:
+  last30d:
+    since: 2026-10-14
+    release: 10
+    mergedPR: 112
+    openPR: 3
+    closedIssue: 2
+    openIssue: 5
+    commit: 106
+  last60d:
+    since: 2026-09-14
+    release: 14
+    mergedPR: 121
+    openPR: 3
+    closedIssue: 5
+    openIssue: 6
+    commit: 129
+  last90d:
+    since: 2026-08-15
+    release: 14
+    mergedPR: 129
+    openPR: 3
+    closedIssue: 7
+    openIssue: 6
+    commit: 134
+  last180d:
+    since: 2026-05-17
+    release: 25
+    mergedPR: 189
+    openPR: 3
+    closedIssue: 49
+    openIssue: 6
+    commit: 206
+  last360d:
+    since: 2025-11-18
+    release: 31
+    mergedPR: 208
+    openPR: 3
+    closedIssue: 74
+    openIssue: 6
+    commit: 357
+  last720d:
+    since: 2024-11-23
+    release: 31
+    mergedPR: 208
+    openPR: 3
+    closedIssue: 74
+    openIssue: 6
+    commit: 454
+total:
+  release: 31
+  mergedPR: 209
+  openPR: 3
+  closedIssue: 74
+  openIssue: 6
+  commit: 454
+---
+path: /home/runner/.x-repo/github.com/Andyyyy64/whichllm
+collectedAt: 2026-11-13T06:00:10Z
+loc:
+  Python:
+    code: 34786
+    comments: 1413
+    blanks: 6713
+    files: 204
+  Json:
+    code: 4909
+    comments: 0
+    blanks: 0
+    files: 22
+  Toml:
+    code: 566
+    comments: 20
+    blanks: 71
+    files: 2
+  Markdown:
+    code: 0
+    comments: 3153
+    blanks: 949
+    files: 12
+total:
+  code: 40484
+  comments: 4589
+  blanks: 7735
+  files: 240
+---
+
+---
