@@ -2,8 +2,8 @@
   srcname: whichllm
   binname: whichllm
   visiblename: whichllm
-  version: 0.6.7
-  origversion: 0.6.7-1
+  version: 0.6.8
+  origversion: 0.6.8-1
   status: newest
   summary: Auto-detect your hardware and rank local LLMs by what actually fits and performs best
   maintainers:
