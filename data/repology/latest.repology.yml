@@ -2,8 +2,8 @@
   srcname: whichllm
   binname: whichllm
   visiblename: whichllm
-  version: 0.6.8
-  origversion: 0.6.8-1
+  version: 0.6.9
+  origversion: 0.6.9-1
   status: newest
   summary: Auto-detect your hardware and rank local LLMs by what actually fits and performs best
   maintainers:
@@ -52,7 +52,7 @@
   visiblename: whichllm
   version: 0.6.8
   origversion: null
-  status: newest
+  status: outdated
   summary: Find the local LLM that actually runs and performs best on your hardware
   maintainers:
     - jaredmontoya@github
