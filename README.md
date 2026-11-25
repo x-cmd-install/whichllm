@@ -35,7 +35,7 @@ Total: **41,569** lines of code across **245** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,855 · **Forks**: 379 · **Open issues**: 81 · **Contributors**: 34
+- **Stars**: 6,857 · **Forks**: 380 · **Open issues**: 81 · **Contributors**: 34
 
 ## Totals (cumulative)
 
@@ -45,20 +45,12 @@ Total: **41,569** lines of code across **245** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 11 | 123 | 0 | 3 | 2 | 84 |
-| last60d | 2026-09-25 | 13 | 128 | 0 | 6 | 5 | 127 |
-| 90d | 2026-08-26 | 16 | 137 | 0 | 8 | 5 | 145 |
-| last180d | 2026-05-28 | 25 | 189 | 0 | 44 | 5 | 205 |
-| 360d | 2025-11-29 | 33 | 221 | 0 | 76 | 5 | 369 |
-| last720d | 2024-12-04 | 33 | 221 | 0 | 76 | 5 | 469 |
-
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/whichllm). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.6.8` | ⚠️ outdated |
+| 30d | 2026-10-26 | 11 | 123 | 0 | 3 | 2 | 84 |
+| last60d | 2026-09-26 | 13 | 128 | 0 | 6 | 5 | 127 |
+| 90d | 2026-08-27 | 16 | 137 | 0 | 8 | 5 | 145 |
+| last180d | 2026-05-29 | 25 | 189 | 0 | 43 | 5 | 205 |
+| 360d | 2025-11-30 | 33 | 221 | 0 | 76 | 5 | 369 |
+| last720d | 2024-12-05 | 33 | 221 | 0 | 76 | 5 | 469 |
 
 ## Improve this data
 
@@ -69,4 +61,4 @@ Install metadata for whichllm lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:22:25Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T07:55:34Z._
